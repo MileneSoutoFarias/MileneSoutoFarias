@@ -22,7 +22,4 @@
 ## 📫 Como me contactar  
 📩 **Email**: [milenesofiasouto@gmail.com](mailto:milenesofiasouto@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/milene-farias-ab42b5251](https://www.linkedin.com/in/milene-farias-ab42b5251/)  
-
----
-
-🚀 _"Code, create, innovate!"_  
+ 
