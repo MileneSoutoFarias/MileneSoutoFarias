@@ -16,6 +16,7 @@
 
 ## 📌 Projetos em Destaque  
 🔹 **[Bookings](https://github.com/MileneSoutoFarias/Bookings)** – Plataforma web para gestão hoteleira direcionada ao staff do hotel, utilizando OutSystems.
+
 🔹 **[BookingsMobile](https://github.com/MileneSoutoFarias/BookingsMobile)** – Plataforma Mobile para gestão hoteleira direcionada ao staff do hotel, utilizando OutSystems.  
   
 
