@@ -15,9 +15,9 @@
  
 
 ## 📌 Projetos em Destaque  
-🔹 **[Nome do Projeto 1](https://github.com/seu-usuario/projeto1)** – Breve descrição do projeto.  
-🔹 **[Nome do Projeto 2](https://github.com/seu-usuario/projeto2)** – Breve descrição do projeto.  
-🔹 **[Nome do Projeto 3](https://github.com/seu-usuario/projeto3)** – Breve descrição do projeto.  
+🔹 **[Bookings](https://github.com/MileneSoutoFarias/Bookings)** – Plataforma web para gestão hoteleira direcionada ao staff do hotel, utilizando OutSystems.
+🔹 **[BookingsMobile](https://github.com/MileneSoutoFarias/BookingsMobile)** – Plataforma Mobile para gestão hoteleira direcionada ao staff do hotel, utilizando OutSystems.  
+  
 
 ## 📫 Como me contactar  
 📩 **Email**: [milenesofiasouto@gmail.com](mailto:milenesofiasouto@gmail.com)  
