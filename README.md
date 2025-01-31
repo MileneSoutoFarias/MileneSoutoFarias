@@ -19,7 +19,7 @@
 
 🔹 **[BookingsMobile](https://github.com/MileneSoutoFarias/BookingsMobile)** – Plataforma Mobile para gestão hoteleira direcionada ao staff do hotel, utilizando OutSystems.  
  
-🔹 **[Gammeland](https://github.com/MileneSoutoFarias/gameland1)** –  Gameland1 é um sistema desenvolvido em Java que permite a gestão de um evento de jogos, incluindo informações sobre os jogos, participantes, resultados e prêmios.   
+🔹 **[Gammeland](https://github.com/MileneSoutoFarias/gameland)** –  Gameland1 é um sistema desenvolvido em Java que permite a gestão de um evento de jogos, incluindo informações sobre os jogos, participantes, resultados e prêmios.   
 
 ## 📫 Como me contactar  
 📩 **Email**: [milenesofiasouto@gmail.com](mailto:milenesofiasouto@gmail.com)  
